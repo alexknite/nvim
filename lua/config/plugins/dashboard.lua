@@ -32,7 +32,7 @@ return {
           { icon = "  ", desc = " Update Plugins", action = "Lazy sync", key = "u" },
           { icon = "  ", desc = " Quit Neovim", action = "qa", key = "q" },
         },
-        footer = { "🚀 Happy Coding" },
+        footer = { "Made with ❤️  by alexnite"},
       },
     })
   end,
