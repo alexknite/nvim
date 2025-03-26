@@ -11,6 +11,7 @@ map("n", "<leader>w", "<CMD>w<CR>")
 
 -- Quit
 map("n", "<leader>q", "<CMD>q<CR>")
+map("n", "<leader>qa", "<CMD>qa<CR>")
 
 -- Exit insert mode
 map("i", "jj", "<ESC>")

@@ -1,4 +1,3 @@
-local global = vim.g
 local o = vim.opt
 
 o.number = true
@@ -22,4 +21,4 @@ o.inccommand = "split"
 o.splitright = true
 o.splitbelow = true
 o.termguicolors = true
-
+o.textwidth = 80
