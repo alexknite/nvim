@@ -11,7 +11,7 @@ return {
 						command = { "python3" },
 					},
 				},
-				repl_open_cmd = require("iron.view").right(80),
+				repl_open_cmd = require("iron.view").right(60),
 			},
 			keymaps = {
 				toggle_repl = "<space>rr", -- toggles the repl open and closed.
